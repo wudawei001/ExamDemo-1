@@ -9,6 +9,8 @@ package com.migu.schedule.info;
 public class TaskInfo
 {
     private int taskId;
+    
+    
     private int nodeId;
     public int getNodeId()
     {
